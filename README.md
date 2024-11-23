@@ -65,3 +65,6 @@ A simple SQL-based project for managing a library system. This project helps to 
 - Implement a web interface for easier library management.
 - Expand the system to include multiple library branches.
 
+## The database schema diagram
+![database schema diagram](docs/library-diagram.png)
+
